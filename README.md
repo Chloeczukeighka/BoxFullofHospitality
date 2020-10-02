@@ -2,9 +2,7 @@
 
 Recognizing the lives we were given as fortunate ones, we strive to do the same and give back to the children in the Philippines, especially to those who are limited in supplies and sources for the proper education. By organizing and selling self-care packages to buyers and those that wish to uplift and improve the lives of these children, we hope to raise funds  in a way that gives joy to everyone. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### How to support our non-profit organization
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
