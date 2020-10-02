@@ -7,7 +7,8 @@ Recognizing the lives we were given as fortunate ones, we strive to do the same 
 Disclaimer: All the supplies that we sell in each and every self-care package to buyers are not items made by our organization, but are items bought and resold for the retail price we provide. We are not responsible for any allergic reactions or items tat are broken. Read Terms and Services and Terms of Conditions before buying.
 
 ```markdown
-Currently, since we are only starting out, we are limited to selling self-care packages, but will increase our variety and options in the future. When buying a self-care package, you receive items such as:
+Currently, since we are only starting out, we are limited to selling self-care packages, but will increase our variety and options
+in the future. When buying a self-care package, you receive items such as:
 1. a beauty face mask
 2. a bath bomb
 3. a scented candle
@@ -16,7 +17,7 @@ Currently, since we are only starting out, we are limited to selling self-care p
 6. a lip gloss 
 7. 2 vsco stickers
 
-**Bold** and _Italic_ and `Code` text
+**For more information and to follow us as we launch our first posts, follow us at our social medias!**
 
 [Link](url) and ![Image](src)
 ```
