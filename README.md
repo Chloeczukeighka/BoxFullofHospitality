@@ -4,7 +4,7 @@ Recognizing the lives we were given as fortunate ones, we strive to do the same 
 
 ### How to support our non-profit organization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Disclaimer: All the supplies that we sell in each and every self-care package to buyers are not items made by our organization, but are items bought and resold for the retail price we provide. We are not responsible for any allergic reactions or items tat are broken. Read Terms and Services and Terms of Conditions before buying.
 
 ```markdown
 Syntax highlighted code block
