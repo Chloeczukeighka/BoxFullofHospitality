@@ -15,5 +15,5 @@ The media marginalizes Filipinos because they don't fit their prescribed definit
 [https://www.psychologytoday.com/us/blog/unseen-and-unheard/201604/why-are-filipino-americans-still-forgotten-and-invisible]
 [https://www.fromthesquare.org/stop-forgetting-filipino-americans/#.X4TK3MJKjIU]
 
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
-
+![“Singgalot: The Ties That Bind"](https://drexel.edu/~/media/Images/now/professionals/release_images/full/Smithsonian-Traveling-Exhibition-Brings-Filipino-American-History-to-Life.ashx)
+![](https://media.newyorker.com/photos/5d2cf62c4ebe2d00094886e4/16:9/w_2351,h_1322,c_limit/Hsu-AsianAmerican.jpg)
