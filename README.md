@@ -11,10 +11,7 @@ The media marginalizes Filipinos because they don't fit their prescribed definit
 
 **In commemoration for October, which is Filipino American History Month, and to learn more about the Filipino culture and heritage, follow Club Kaibigan's Instagram and Facebook @ClubKaibigan**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[https://drexel.edu/~/media/Images/now/professionals/release_images/full/Smithsonian-Traveling-Exhibition-Brings-Filipino-American-History-to-Life.ashx](src)
 
 ### Learn More/ Sources used:
 
