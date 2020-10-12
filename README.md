@@ -1,4 +1,4 @@
-## Learn about the the "Forgotten Asian American"!
+## Learn about the the "Forgotten Asian Americans"!
 
 Did you know that Filipino Americans were the first asian-prgin to have arrived in north america? The Ailipino AMerican community is the second-largest asian american group in the united states and make up around 20% of the total Asian American population. In spite of this, in the 1,126 New York Times articles archived under the subject "Asian American", only 6% mentioned filipinos, although the statistic suggest that filipinos would be feautured regularly in news stories about asian americans. Even among newspapers in California, where Filipinos constitue the largest Asian American group, the pattern is the same. 
 
@@ -9,17 +9,15 @@ The media marginalizes Filipinos because they don't fit their prescribed definit
 ```markdown
 
 
-**For more information and to follow us as we launch our first posts, follow us at our social medias!**
+**In commemoration for October, which is Filipino American History Month, and to learn more about the Filipino culture and heritage, follow Club Kaibigan's Instagram and Facebook @ClubKaibigan**
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Learn More/ Sources used:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chloeczukeighka/BoxFullofHospitality/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[https://www.psychologytoday.com/us/blog/unseen-and-unheard/201604/why-are-filipino-americans-still-forgotten-and-invisible]
+[https://www.fromthesquare.org/stop-forgetting-filipino-americans/#.X4TK3MJKjIU]
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
