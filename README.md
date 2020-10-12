@@ -6,12 +6,9 @@ Did you know that Filipino Americans were the first asian-prgin to have arrived 
 
 The media marginalizes Filipinos because they don't fit their prescribed definition of Asian American Identity and unlike other asians, US-born FIlipinos are overwhelmingly monolingual english speaker. To the media, Filipinos are "too American" to fit rhe "Quintessential" Asian American experience. Also, Filipinos are omitted from Asian American stories because their cultural experiences align more with Latinos.
 
-```markdown
-
-
 **In commemoration for October, which is Filipino American History Month, and to learn more about the Filipino culture and heritage, follow Club Kaibigan's Instagram and Facebook @ClubKaibigan**
 
-[https://drexel.edu/~/media/Images/now/professionals/release_images/full/Smithsonian-Traveling-Exhibition-Brings-Filipino-American-History-to-Life.ashx](src)
+[https://drexel.edu/~/media/Images/now/professionals/release_images/full/Smithsonian-Traveling-Exhibition-Brings-Filipino-American-History-to-Life.ashx]
 
 ### Learn More/ Sources used:
 
