@@ -15,5 +15,5 @@ The media marginalizes Filipinos because they don't fit their prescribed definit
 [https://www.psychologytoday.com/us/blog/unseen-and-unheard/201604/why-are-filipino-americans-still-forgotten-and-invisible]
 [https://www.fromthesquare.org/stop-forgetting-filipino-americans/#.X4TK3MJKjIU]
 
-(Smithsonian-Traveling-Exhibition-Brings-Filipino-American-History-to-Life.jpg/src)
+Smithsonian-Traveling-Exhibition-Brings-Filipino-American-History-to-Life.jpg/src
 
